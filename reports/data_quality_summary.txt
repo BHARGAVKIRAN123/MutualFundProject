@@ -1,0 +1,37 @@
+DAY 1 DATA QUALITY SUMMARY
+
+1. Total datasets loaded : 10
+
+2. Missing Values
+------------------
+Only 04_monthly_sip_inflows.csv contains missing values.
+
+Column:
+yoy_growth_pct
+
+Missing Count:
+12
+
+Reason:
+Year-over-Year growth is unavailable for the initial months.
+
+3. Duplicate Rows
+-----------------
+No duplicate rows found in any dataset.
+
+4. Data Types
+-------------
+Verified successfully.
+
+5. AMFI Validation
+------------------
+All AMFI Codes from fund_master exist in nav_history.
+
+6. API Extraction
+-----------------
+Successfully fetched live NAV data using mfapi.in.
+
+Status Code:
+200
+
+Saved processed NAV files successfully.
