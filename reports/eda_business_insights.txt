@@ -1,0 +1,8 @@
+MUTUAL FUND EDA - KEY BUSINESS INSIGHTS
+============================================================
+
+1. AUM Leader: SBI Mutual Fund had the highest AUM in 2025 at ₹12.50 lakh crore.
+2. SIP Trend: SIP inflow changed by 169.18% over the available period.
+3. Folio Growth: Total folios changed by 96.98% over the available period.
+4. Top Category: Liquid.
+5. Top Sector: Banking (21.74%).

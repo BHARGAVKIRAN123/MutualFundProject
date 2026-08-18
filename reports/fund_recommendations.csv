@@ -1,0 +1,10 @@
+requested_risk,rank,amfi_code,scheme_name,fund_house,risk_grade,sharpe_ratio
+Low,1,120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Low,7.68
+Low,2,120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Low,6.18
+Low,3,101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Low,5.14
+Moderate,1,100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Moderate,1.06
+Moderate,2,148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Moderate,1.06
+Moderate,3,120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Moderate,1.03
+High,1,120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,High,0.96
+High,2,120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,High,0.95
+High,3,149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,High,0.9
